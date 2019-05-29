@@ -149,7 +149,7 @@ class TelegramBaseClient(abc.ABC):
                  connection=ConnectionTcpFull,
                  use_ipv6=False,
                  proxy=None,
-                 timeout=timedelta(seconds=10),
+                 timeout=timedelta(seconds=60),
                  request_retries=5,
                  connection_retries=5,
                  auto_reconnect=True,
